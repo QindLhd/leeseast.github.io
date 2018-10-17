@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-09-20T00:28:26.657Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://leeseast.com/"/>
+  <updated>2018-10-17T14:33:53.563Z</updated>
+  <id>http://leeseast.com/</id>
   
   <author>
     <name>Leeseast</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>test2</title>
-    <link href="http://yoursite.com/2018/09/20/test2/"/>
-    <id>http://yoursite.com/2018/09/20/test2/</id>
-    <published>2018-09-20T00:16:57.593Z</published>
-    <updated>2018-09-20T00:28:26.657Z</updated>
+    <link href="http://leeseast.com/posts/13bb8d58.html"/>
+    <id>http://leeseast.com/posts/13bb8d58.html</id>
+    <published>2018-10-16T13:57:14.313Z</published>
+    <updated>2018-10-17T14:33:53.563Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h3><p>如果你得罪了老板，失去的只是一份工作；如果你得罪了客户，失去的不过是一份订单；是的，世上只有一个人可以得罪：你给她脸色看，你冲她发牢骚，你大声顶撞她，甚至当 着她的面摔碗，她都不会记恨你，原因很简单，因为她是你的母亲。</p>]]></content>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://leeseast.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://leeseast.com/tags/Testing/"/>
     
-      <category term="Ao" scheme="http://yoursite.com/tags/Ao/"/>
+      <category term="Ao" scheme="http://leeseast.com/tags/Ao/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2018/09/18/test/"/>
-    <id>http://yoursite.com/2018/09/18/test/</id>
-    <published>2018-09-18T02:57:38.060Z</published>
-    <updated>2018-09-20T00:28:12.027Z</updated>
+    <link href="http://leeseast.com/posts/d87f7e0c.html"/>
+    <id>http://leeseast.com/posts/d87f7e0c.html</id>
+    <published>2018-10-16T13:57:14.306Z</published>
+    <updated>2018-10-17T14:33:53.562Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h2>]]></content>
     
@@ -61,12 +61,12 @@
     
     </summary>
     
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://leeseast.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://leeseast.com/tags/Testing/"/>
     
-      <category term="Ao" scheme="http://yoursite.com/tags/Ao/"/>
+      <category term="Ao" scheme="http://leeseast.com/tags/Ao/"/>
     
   </entry>
   
